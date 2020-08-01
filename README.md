@@ -3,10 +3,11 @@
 ## Assignment 1
 Steps-
   * Install pysprk in our local machine after installation of anaconda machine
-  * add the anaconda path into the bashrc file of that anaconda path
+  * add the anaconda path into the bashrc file
+  * download the Assignment1 folder and go to this folder
   * run the bashScript.sh 
-            ### first assign the permission using command of `chmod +x bashScript.sh`
-            ### `./basgScript.sh`
+            1. first assign the permission using command of `chmod +x bashScript.sh`
+            2. the run bashScript file using command `./bashScript.sh`
         
 
 ## Assignment 2
