@@ -11,3 +11,5 @@ Steps-
 
 ## Assignment 2
 steps - 
+  * install the HSQLdb and start the database
+  * extract the Assignment2 file and run the Assignment2 folder 
