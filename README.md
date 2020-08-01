@@ -13,4 +13,6 @@ Steps-
 ## Assignment 2
 steps - 
   * install the HSQLdb and start the database
-  * extract the Assignment2 file and run the Assignment2 folder 
+  * extract the Assignment2 file and import into the sts eclipse
+  * execute ReadData.java to import data into the table
+  * execute ExecuteQuerry.java to execute the querry for all the questions
