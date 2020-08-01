@@ -5,8 +5,8 @@ Steps-
   * Install pysprk in our local machine after installation of anaconda machine
   * add the anaconda path into the bashrc file of that anaconda path
   * run the bashScript.sh 
-        * first assign the permission using command of chmod +x bashScript.sh
-        * ./basgScript.sh
+            ### first assign the permission using command of `chmod +x bashScript.sh`
+            ### `./basgScript.sh`
         
 
 ## Assignment 2
